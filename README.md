@@ -41,4 +41,4 @@ This project is licensed under the MIT License.
 ## Author
 **Imzamamul Islam**
 - Email: Imzamamulww1@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imzamamul-islam-418b40269/)
+- LinkedIn: (https://www.linkedin.com/in/imzamamul-islam-418b40269/)
